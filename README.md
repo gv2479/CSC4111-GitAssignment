@@ -1,3 +1,3 @@
-# GitHub and git
+# GitHub git
 Allan Imseis
 GV2479
